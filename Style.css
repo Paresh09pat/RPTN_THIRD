@@ -40,13 +40,13 @@
     top: -100px;
 }
 
-.navbar-active {
-    top: 0;
-}
-
+.fixed {
+    position: fixed;
+    top: 0px;
+  }
 
 .nav--logo {
-    width: 80px;
+    width: 100px;
 }
 
 .navbar_container {
@@ -238,11 +238,12 @@
 }
 
 .inp_field {
-    width: 280px;
+    width: 270px;
     border-radius: 5px;
     height: 40px;
     padding-left: 10px;
     margin-top: 30px;
+    margin-right: 20px;
 }
 
 .btn {
@@ -445,6 +446,7 @@
     transform: translate(-50%, -50%);
     transform: rotate(360deg);
     cursor: pointer;
+    width: 10%;
 }
 
 .fortopsec {
