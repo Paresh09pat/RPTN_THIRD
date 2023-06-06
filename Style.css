@@ -834,16 +834,17 @@
 
     .classfortext {
         font-size: 18px;
-        word-spacing: 5px;
-        letter-spacing: 2px;
-        padding-left: 30px;
-        padding-top: 50px;
+        word-spacing: 2px;
+        letter-spacing: 1px;
+        padding-left: 10px;
+        padding-top: 70px;
     }
 
     .rptn_CT {
-        padding-top: 50px;
-        padding-bottom: 20px;
+        padding-top: 100px;
+        padding-bottom: 50px;
         margin-bottom: 0;
+        font-size: 22px;
     }
 
     /* third section */
