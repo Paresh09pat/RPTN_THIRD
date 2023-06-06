@@ -778,7 +778,7 @@
 
     .THSEC_first_page_head {
         font-size: 22px;
-        padding-top: 70px;
+        padding-top: 120px;
     }
 
     .FSHEADTEXTINC {
@@ -799,7 +799,7 @@
         height: 40px;
         width: 90%;
         margin-left: 2%;
-        margin-bottom: 70px;
+        margin-bottom: 120px;
     }
 
     .fortopsec {
