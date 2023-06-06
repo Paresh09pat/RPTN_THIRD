@@ -55,9 +55,7 @@ const hideMobileMenu = () => {
   }
 }
 
-
 // Animation
-
 AOS.init();
 
 //   nav search *******************************************
