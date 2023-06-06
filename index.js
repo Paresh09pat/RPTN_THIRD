@@ -60,7 +60,6 @@ const hideMobileMenu = () => {
 
 AOS.init();
 
-
 //   nav search *******************************************
 
 // ---- ---- Const ---- ---- //
